@@ -1,0 +1,8 @@
+2|A Brief History of Time|Stephen Hawking|0
+3|The Uninhabitable Earth|David Wallace-Wells|0
+4|Astrophysics for People in a Hurry|Neil deGrasse Tyson|0
+5|How Not to Die|Michael Greger|0
+6|The Discovery of India|Jawaharlal Nehru|0
+7|Meditations|Marcus Aurelius|0
+8|The Pragmatic Programmer|Andrew Hunt|0
+9|c programming|dennis|0
